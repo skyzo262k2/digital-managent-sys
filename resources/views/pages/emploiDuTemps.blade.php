@@ -1,0 +1,51 @@
+@extends('layouts.app')
+
+@section('content')
+<style>
+    li{
+        padding: 30px;
+
+    }
+</style>
+    <ul class="">
+        <li>Mathématiques</li>
+        <li>Physique</li>
+        <li>Anglais</li>
+        <li>Français</li>
+        <li>Pause</li>
+        <li>Histoire</li>
+        <li>Géographie</li>
+        <li>Mathématiques</li>
+        <li>Physique</li>
+        <li>Anglais</li>
+        <li>Français</li>
+        <li>Pause</li>
+        <li>Histoire</li>
+        <li>Géographie</li>
+        <li>EPS</li>
+        <li>Mathématiques</li>
+        <li>Physique</li>
+        <li>Anglais</li>
+        <li>Français</li>
+        <li>Pause</li>
+        <li>Histoire</li>
+        <li>Géographie</li>
+        <li>EPS</li>
+        <li>Mathématiques</li>
+        <li>Physique</li>
+        <li>Anglais</li>
+        <li>Français</li>
+        <li>Pause</li>
+        <li>Histoire</li>
+        <li>Géographie</li>
+        <li>EPS</li><li>Mathématiques</li>
+        <li>Physique</li>
+        <li>Anglais</li>
+        <li>Français</li>
+        <li>Pause</li>
+        <li>Histoire</li>
+        <li>Géographie</li>
+        <li>EPS</li>
+        <li>EPS</li>
+    </ul>
+@endsection
